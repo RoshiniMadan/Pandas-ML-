@@ -3,5 +3,6 @@ Pandas is a powerful Python library for data manipulation and analysis. It is wi
 ->Data loading and cleaning
 ->Feature engineering
 ->Model training and evaluation
-These documents help in understanding pandas and their data structures, describing data, viewing and selecting data, etc.
+
+These documents help understand pandas and their data structures, describe data, view and select data, etc.
 
