@@ -1,4 +1,4 @@
-# Pandas-ML-
+# Pandas-ML
 Pandas is a powerful Python library for data manipulation and analysis. It is widely used in machine learning for a variety of tasks
 ->Data loading and cleaning
 ->Feature engineering
